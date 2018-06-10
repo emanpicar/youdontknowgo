@@ -1,0 +1,27 @@
+GO Lang
+  - The Go Lang
+      - Credentials of Go
+      - Why create Go
+      - Who uses Go
+      - Documentation (Spec / Effective Go / Packages)
+      - Playground
+  - Setting things Up
+      - Download and Verification (openssl SHA256)
+      - Proper folder structure
+      - Setup Env Path
+  - Basic Terminal Commands
+      - env, get, run, build, install, clean, fmt
+  - Language Fundamentals
+      - Hello World
+      - Packages 
+      - Variables
+      - Constants
+      - Type & Untype Values
+        - One way to think about untyped constants is that they live in a kind of ideal space of values, a space less restrictive than Go's full type system
+      - Types (https://golang.org/ref/spec)
+      - Scope
+      - Blank Identifier
+      - Memory Addresses & Pointers
+  - Control Flow
+      - For loop
+        - condition, no condition, continue, break
