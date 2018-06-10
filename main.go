@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 import (
-	_ "os"
 	goCore "github.com/emanpicar/youdontknowgo/core"
+	_ "os"
 )
 
 func main() {

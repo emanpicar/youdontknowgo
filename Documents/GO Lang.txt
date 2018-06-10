@@ -25,3 +25,25 @@ GO Lang
   - Control Flow
       - For loop
         - condition, no condition, continue, break
+      - If / Else If / Else
+        - Bool Expressions
+      - Switch Statements
+  - Functions
+      - Func returns
+      - Variadic functions / arguments
+      - Func Expressions
+      - Closure
+      - Callbacks
+      - Recursion
+      - Defer
+      - Anonymous Self-Executing Functions
+  - Data Structures
+      - Array
+      - Slice
+      - Map
+      - Struct
+  - Interfaces
+  - Concurrency
+  - Channels
+  - Applied Concurrency
+  - Error Handling
