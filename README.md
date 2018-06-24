@@ -1,2 +1,57 @@
 # youdontknowgo
 The purpose of this repository is to share my knowledge in Go language. Target audience are those who are interested in learning Go lang.
+
+# Content
+  - The Go Lang
+      - Credentials of Go
+      - Why create Go
+      - Who uses Go
+      - Documentation (Spec / Effective Go / Packages)
+      - Playground
+      - A Tour of Go (https://tour.golang.org/welcome/1)
+  - Setting things Up
+      - Download and Verification (openssl SHA256)
+      - Proper folder structure
+      - Setup Env Path
+  - Basic Terminal Commands
+      - env, get, run, build, install, clean, fmt
+  - Language Fundamentals
+      - Hello World
+      - Packages 
+      	- private and public
+      - Variables
+      - Constants
+      - Type & Untype Values
+        - One way to think about untyped constants is that they live in a kind of ideal space of values, a space less restrictive than Go's full type system
+      - Types (https://golang.org/ref/spec)
+      - Conversion
+      - Scope
+      - Lexical Elements (https://golang.org/ref/spec#Lexical_elements)
+      - Blank Identifier
+      - Memory Addresses & Pointers
+  - Control Flow
+      - For loop
+        - condition, no condition, continue, break
+      - If / Else If / Else
+        - Bool Expressions
+      - Switch Statements
+  - Functions
+      - Func returns
+      - Variadic functions / arguments
+      - Func Expressions
+      - Closure
+      - Callbacks
+      - Recursion
+      - Defer
+      - Anonymous Self-Executing Functions
+  - Data Structures
+  	  - Allocation with new (https://golang.org/doc/effective_go.html?#allocation_new) and make (https://golang.org/doc/effective_go.html?#allocation_make)
+      - Array
+      - Slice
+      - Map
+      - Struct
+  - Interfaces
+  - Concurrency
+  - Channels
+  - Applied Concurrency
+  - Error Handling
